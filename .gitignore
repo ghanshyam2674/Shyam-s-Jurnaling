@@ -1,0 +1,14 @@
+# -- Directories
+# frontend
+/frontend/node_modules
+/frontend/package-lock.json
+/frontend/.next/
+
+# backend
+/backend/.venv
+
+# Test
+/backend/test 
+/frontend/test 
+/test
+.env
